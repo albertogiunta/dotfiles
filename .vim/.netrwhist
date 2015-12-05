@@ -1,0 +1,9 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =7
+let g:netrw_dirhist_1='/Users/albertogiunta/Dropbox'
+let g:netrw_dirhist_2='/Users/albertogiunta/Dropbox/Work'
+let g:netrw_dirhist_3='/Users/albertogiunta/Dropbox/Work/Websites'
+let g:netrw_dirhist_4='/Users/albertogiunta/Dropbox/Work/Websites/albertogiunta.github.io'
+let g:netrw_dirhist_5='/Users/albertogiunta/Dropbox/Work/Websites/albertogiunta.github.io/_posts'
+let g:netrw_dirhist_6='/Users/albertogiunta/Dropbox/Work/Websites/albertogiunta.github.io'
+let g:netrw_dirhist_7='/Users/albertogiunta/Dropbox/Work/Chrome Extension/Seen!'
